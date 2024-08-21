@@ -1,0 +1,68 @@
+body  {background-color: #85C1C3;}
+{margin: 0;
+padding: 0;}
+body h1 {
+   text-align: center;
+   color: #060270 ; 
+}
+
+.biografiaK h3{
+   text-align: center;
+   color: #060270;
+}
+
+.biografiaK H5{
+   text-align: center;
+   color: #000000;
+}
+
+.biografiaj h3{
+   text-align: center;
+   color: #060270;
+}
+
+.biografiaj H5{
+   text-align: center;
+   color: #000000;
+}
+
+figure img{
+   list-style: none;
+   margin: 0;
+   text-align: center;
+}
+.biogra h3 {
+   text-align: center;
+   color: #060270;
+}
+.biogra h5 {
+   text-align: center;
+   color: #000000;
+}
+
+.biograj h3 {
+   text-align: center;
+   color: #060270;
+}
+.biograj h5 {
+   text-align: center;
+   color: #000000;
+}
+
+.biogram h3 {
+   text-align: center;
+   color: #060270;
+}
+.biogram h5 {
+   text-align: center;
+   color: #000000;
+}
+.pie{
+   background-color: #060270;
+   text-align: center;
+   color: #FFFFFF;
+   font-size: 20px;
+   font-family: 'Gill Sans Ultra Bold';
+   margin: 15px;
+   max-width: 100%;
+}
